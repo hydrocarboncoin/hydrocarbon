@@ -1,0 +1,2 @@
+debian/bin/Noorcoind usr/bin
+src/Noorcoind usr/lib/Noorcoin
