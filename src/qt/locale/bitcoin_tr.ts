@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Noorcoin</source>
-        <translation>Noorcoin Hakkında</translation>
+        <source>About Hydrocarbon</source>
+        <translation>Hydrocarbon Hakkında</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Noorcoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Noorcoin&lt;/b&gt; versiyonu</translation>
+        <source>&lt;b&gt;Hydrocarbon&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Hydrocarbon&lt;/b&gt; versiyonu</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Noorcoin developers</source>
+Copyright © 2014 The Hydrocarbon developers</source>
         <translation>Telif Hakkı © 2009-2014 Bitcoin geliştiricileri
 Telif Hakkı © 2012-2014 NovaCoin geliştiricileri
-Telif Hakkı © 2014 Noorcoin geliştiricileri</translation>
+Telif Hakkı © 2014 Hydrocarbon geliştiricileri</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Bu ürün, OpenSSL projesi tarafından OpenSSL araç takımıThis product includ
     </message>
     <message>
         <location line="-43"/>
-        <source>These are your Noorcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Bunlar, ödeme almak için Noorcoin adreslerinizdir. Her bir göndericiye farklı birini verebilir, böylece size kimin ödeme yaptığını takip edebilirsiniz.</translation>
+        <source>These are your Hydrocarbon addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Bunlar, ödeme almak için Hydrocarbon adreslerinizdir. Her bir göndericiye farklı birini verebilir, böylece size kimin ödeme yaptığını takip edebilirsiniz.</translation>
     </message>
     <message>
         <location line="+53"/>
@@ -80,8 +80,8 @@ Bu ürün, OpenSSL projesi tarafından OpenSSL araç takımıThis product includ
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign a message to prove you own a Noorcoin address</source>
-        <translation>Bir Noorcoin adresine sahip olduğunu ispatlamak için bir mesaj imzala</translation>
+        <source>Sign a message to prove you own a Hydrocarbon address</source>
+        <translation>Bir Hydrocarbon adresine sahip olduğunu ispatlamak için bir mesaj imzala</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Bu ürün, OpenSSL projesi tarafından OpenSSL araç takımıThis product includ
     </message>
     <message>
         <location line="-10"/>
-        <source>Verify a message to ensure it was signed with a specified Noorcoin address</source>
-        <translation>Mesajın, belirli bir Noorcoin adresiyle imzalandığından emin olmak için onu doğrula</translation>
+        <source>Verify a message to ensure it was signed with a specified Hydrocarbon address</source>
+        <translation>Mesajın, belirli bir Hydrocarbon adresiyle imzalandığından emin olmak için onu doğrula</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Bu ürün, OpenSSL projesi tarafından OpenSSL araç takımıThis product includ
     </message>
     <message>
         <location line="+82"/>
-        <source>Noorcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Noorcoin, şifreleme işlemini tamamlamak için şimdi kapatılacak. Cüzdanınızı şifrelemenin; coinlerinizin, bilgisayarınızı etkileyen zararlı yazılımlar tarafından çalınmasını bütünüyle engelleyemeyebileceğini unutmayınız.</translation>
+        <source>Hydrocarbon will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Hydrocarbon, şifreleme işlemini tamamlamak için şimdi kapatılacak. Cüzdanınızı şifrelemenin; coinlerinizin, bilgisayarınızı etkileyen zararlı yazılımlar tarafından çalınmasını bütünüyle engelleyemeyebileceğini unutmayınız.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -357,8 +357,8 @@ Bu ürün, OpenSSL projesi tarafından OpenSSL araç takımıThis product includ
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Noorcoin</source>
-        <translation>Noorcoin hakkındaki bilgiyi göster</translation>
+        <source>Show information about Hydrocarbon</source>
+        <translation>Hydrocarbon hakkındaki bilgiyi göster</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -397,13 +397,13 @@ Bu ürün, OpenSSL projesi tarafından OpenSSL araç takımıThis product includ
     </message>
     <message>
         <location line="-55"/>
-        <source>Send coins to a Noorcoin address</source>
-        <translation>Bir Noorcoin adresine coin gönder</translation>
+        <source>Send coins to a Hydrocarbon address</source>
+        <translation>Bir Hydrocarbon adresine coin gönder</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>Modify configuration options for Noorcoin</source>
-        <translation>Noorcoin yapılandırma seçeneklerini değiştir</translation>
+        <source>Modify configuration options for Hydrocarbon</source>
+        <translation>Hydrocarbon yapılandırma seçeneklerini değiştir</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -443,8 +443,8 @@ Bu ürün, OpenSSL projesi tarafından OpenSSL araç takımıThis product includ
     <message>
         <location line="-214"/>
         <location line="+555"/>
-        <source>Noorcoin</source>
-        <translation>Noorcoin</translation>
+        <source>Hydrocarbon</source>
+        <translation>Hydrocarbon</translation>
     </message>
     <message>
         <location line="-555"/>
@@ -453,8 +453,8 @@ Bu ürün, OpenSSL projesi tarafından OpenSSL araç takımıThis product includ
     </message>
     <message>
         <location line="+193"/>
-        <source>&amp;About Noorcoin</source>
-        <translation>Noorcoin &amp;Hakkında</translation>
+        <source>&amp;About Hydrocarbon</source>
+        <translation>Hydrocarbon &amp;Hakkında</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -505,13 +505,13 @@ Bu ürün, OpenSSL projesi tarafından OpenSSL araç takımıThis product includ
     <message>
         <location line="+0"/>
         <location line="+58"/>
-        <source>Noorcoin client</source>
-        <translation>Noorcoin istemcisi</translation>
+        <source>Hydrocarbon client</source>
+        <translation>Hydrocarbon istemcisi</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Noorcoin network</source>
-        <translation><numerusform>Noorcoin ağına %n etkin bağlantı</numerusform><numerusform>Noorcoin ağına %n etkin bağlantı</numerusform></translation>
+        <source>%n active connection(s) to Hydrocarbon network</source>
+        <translation><numerusform>Hydrocarbon ağına %n etkin bağlantı</numerusform><numerusform>Hydrocarbon ağına %n etkin bağlantı</numerusform></translation>
     </message>
     <message>
         <location line="+488"/>
@@ -605,8 +605,8 @@ Adres: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Noorcoin address or malformed URI parameters.</source>
-        <translation>URI ayrıştırılamadı! Bu, geçersiz bir Noorcoin adresi veya hatalı URI parametreleri nedeniyle olabilir.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Hydrocarbon address or malformed URI parameters.</source>
+        <translation>URI ayrıştırılamadı! Bu, geçersiz bir Hydrocarbon adresi veya hatalı URI parametreleri nedeniyle olabilir.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -728,8 +728,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+104"/>
-        <source>A fatal error occurred. Noorcoin can no longer continue safely and will quit.</source>
-        <translation>Önemli bir hata oluştu. Noorcoin artık güvenli bir şekilde devam edemez ve şimdi kapatılacak.</translation>
+        <source>A fatal error occurred. Hydrocarbon can no longer continue safely and will quit.</source>
+        <translation>Önemli bir hata oluştu. Hydrocarbon artık güvenli bir şekilde devam edemez ve şimdi kapatılacak.</translation>
     </message>
 </context>
 <context>
@@ -1062,8 +1062,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Noorcoin address.</source>
-        <translation>Girilen %1 adresi, geçerli bir Noorcoin adresi değildir.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Hydrocarbon address.</source>
+        <translation>Girilen %1 adresi, geçerli bir Hydrocarbon adresi değildir.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1081,8 +1081,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+426"/>
         <location line="+12"/>
-        <source>Noorcoin-Qt</source>
-        <translation>Noorcoin-Qt</translation>
+        <source>Hydrocarbon-Qt</source>
+        <translation>Hydrocarbon-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1154,13 +1154,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Noorcoin after logging in to the system.</source>
-        <translation>Sisteme giriş yaptıktan sonra Noorcoin&apos;i otomatik olarak başlat</translation>
+        <source>Automatically start Hydrocarbon after logging in to the system.</source>
+        <translation>Sisteme giriş yaptıktan sonra Hydrocarbon&apos;i otomatik olarak başlat</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Noorcoin on system login</source>
-        <translation>Sisteme girişte Noorcoin&apos;i &amp;başlat</translation>
+        <source>&amp;Start Hydrocarbon on system login</source>
+        <translation>Sisteme girişte Hydrocarbon&apos;i &amp;başlat</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1169,8 +1169,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Noorcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Yönelticide Noorcoin istemci portunu otomatik olarak aç. Bu, sadece yönelticiniz UPnP&apos;i desteklediğinde ve etkin olduğunda çalışır.</translation>
+        <source>Automatically open the Hydrocarbon client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Yönelticide Hydrocarbon istemci portunu otomatik olarak aç. Bu, sadece yönelticiniz UPnP&apos;i desteklediğinde ve etkin olduğunda çalışır.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1199,7 +1199,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-57"/>
-        <source>Connect to the Noorcoin network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the Hydrocarbon network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1244,8 +1244,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Noorcoin.</source>
-        <translation>Kullanıcı arabirimi dili buradan ayarlanabilir. Ayar, Noorcoin yeniden başlatıldığında etkin olacaktır.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Hydrocarbon.</source>
+        <translation>Kullanıcı arabirimi dili buradan ayarlanabilir. Ayar, Hydrocarbon yeniden başlatıldığında etkin olacaktır.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1311,8 +1311,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Noorcoin.</source>
-        <translation>Bu ayar, Noorcoin&apos;i yeniden başlattıktan sonra etkin olacaktır.</translation>
+        <source>This setting will take effect after restarting Hydrocarbon.</source>
+        <translation>Bu ayar, Hydrocarbon&apos;i yeniden başlattıktan sonra etkin olacaktır.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1330,8 +1330,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+46"/>
         <location line="+247"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Noorcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Görüntülenen bilginin tarihi geçmiş olabilir. Cüzdanınız, bağlantı kurulduktan sonra otomatik olarak Noorcoin ağı ile senkronize olur ancak bu süreç, henüz tamamlanmamıştır.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Hydrocarbon network after a connection is established, but this process has not completed yet.</source>
+        <translation>Görüntülenen bilginin tarihi geçmiş olabilir. Cüzdanınız, bağlantı kurulduktan sonra otomatik olarak Hydrocarbon ağı ile senkronize olur ancak bu süreç, henüz tamamlanmamıştır.</translation>
     </message>
     <message>
         <location line="-173"/>
@@ -1404,8 +1404,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start Noorcoin: click-to-pay handler</source>
-        <translation>Noorcoin: tıkla-ve-öde işleyicisi başlatılamıyor</translation>
+        <source>Cannot start Hydrocarbon: click-to-pay handler</source>
+        <translation>Hydrocarbon: tıkla-ve-öde işleyicisi başlatılamıyor</translation>
     </message>
 </context>
 <context>
@@ -1572,8 +1572,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Noorcoin-Qt help message to get a list with possible Noorcoin command-line options.</source>
-        <translation>Muhtemel Noorcoin komut satırı seçeneklerinin bir listesini getirmek için Noorcoin-Qt yardım mesajını göster</translation>
+        <source>Show the Hydrocarbon-Qt help message to get a list with possible Hydrocarbon command-line options.</source>
+        <translation>Muhtemel Hydrocarbon komut satırı seçeneklerinin bir listesini getirmek için Hydrocarbon-Qt yardım mesajını göster</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1592,13 +1592,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>Noorcoin - Debug window</source>
-        <translation>Noorcoin - Hata ayıklama penceresi</translation>
+        <source>Hydrocarbon - Debug window</source>
+        <translation>Hydrocarbon - Hata ayıklama penceresi</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Noorcoin Core</source>
-        <translation>Noorcoin Core</translation>
+        <source>Hydrocarbon Core</source>
+        <translation>Hydrocarbon Core</translation>
     </message>
     <message>
         <location line="+256"/>
@@ -1607,8 +1607,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Noorcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Noorcoin hata ayıklama günlük kütüğü dosyasını, mevcut veri klasöründen aç. Bu işlem, büyük günlük kütüğü dosyaları için birkaç saniye sürebilir.</translation>
+        <source>Open the Hydrocarbon debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Hydrocarbon hata ayıklama günlük kütüğü dosyasını, mevcut veri klasöründen aç. Bu işlem, büyük günlük kütüğü dosyaları için birkaç saniye sürebilir.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1617,8 +1617,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="+325"/>
-        <source>Welcome to the Noorcoin RPC console.</source>
-        <translation>Noorcoin RPC konsoluna hoş geldiniz.</translation>
+        <source>Welcome to the Hydrocarbon RPC console.</source>
+        <translation>Hydrocarbon RPC konsoluna hoş geldiniz.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1798,8 +1798,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-174"/>
-        <source>Enter a Noorcoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Bir Noorcoin adresi gir (örn: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Hydrocarbon address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Bir Hydrocarbon adresi gir (örn: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1898,8 +1898,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+247"/>
-        <source>WARNING: Invalid Noorcoin address</source>
-        <translation>UYARI: Geçersiz Noorcoin adresi</translation>
+        <source>WARNING: Invalid Hydrocarbon address</source>
+        <translation>UYARI: Geçersiz Hydrocarbon adresi</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1972,8 +1972,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Noorcoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Bir Noorcoin adresi girin (örn: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Hydrocarbon address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Bir Hydrocarbon adresi girin (örn: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -2033,8 +2033,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Noorcoin address</source>
-        <translation>Bu Noorcoin adresine sahip olduğunuzu ispatlamak için mesajı imzala</translation>
+        <source>Sign the message to prove you own this Hydrocarbon address</source>
+        <translation>Bu Hydrocarbon adresine sahip olduğunuzu ispatlamak için mesajı imzala</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2065,8 +2065,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Noorcoin address</source>
-        <translation>Mesajın, belirtilen Noorcoin adresiyle imzalandığından emin olmak için onu doğrula</translation>
+        <source>Verify the message to ensure it was signed with the specified Hydrocarbon address</source>
+        <translation>Mesajın, belirtilen Hydrocarbon adresiyle imzalandığından emin olmak için onu doğrula</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2076,8 +2076,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Noorcoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Bir Noorcoin adresi girin (örn: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Hydrocarbon address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Bir Hydrocarbon adresi girin (örn: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2086,8 +2086,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Noorcoin signature</source>
-        <translation>Noorcoin imzası gir</translation>
+        <source>Enter Hydrocarbon signature</source>
+        <translation>Hydrocarbon imzası gir</translation>
     </message>
     <message>
         <location line="+85"/>
@@ -2665,8 +2665,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+171"/>
-        <source>Noorcoin version</source>
-        <translation>Noorcoin versiyonu</translation>
+        <source>Hydrocarbon version</source>
+        <translation>Hydrocarbon versiyonu</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2675,8 +2675,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or Noorcoind</source>
-        <translation>-sunucu veya Noorcoind&apos;ye komut gönder</translation>
+        <source>Send command to -server or Hydrocarbond</source>
+        <translation>-sunucu veya Hydrocarbond&apos;ye komut gönder</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2695,13 +2695,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: Noorcoin.conf)</source>
-        <translation>Konfigürasyon dosyasını belirt (varsayılan: Noorcoin.conf)</translation>
+        <source>Specify configuration file (default: Hydrocarbon.conf)</source>
+        <translation>Konfigürasyon dosyasını belirt (varsayılan: Hydrocarbon.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: Noorcoind.pid)</source>
-        <translation>pid dosyasını belirt (varsayılan: Noorcoin.pid)</translation>
+        <source>Specify pid file (default: Hydrocarbond.pid)</source>
+        <translation>pid dosyasını belirt (varsayılan: Hydrocarbon.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2718,24 +2718,24 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=Noorcoinrpc
+rpcuser=Hydrocarbonrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Noorcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Hydrocarbon Alert&quot; admin@foo.com
 </source>
         <translation>%s, konfigürasyon dosyasında bir rpcpassword belirlemelisiniz: 
 %s
 Aşağıdaki rastgele şifreyi kullanmanız tavsiye edilir:
-rpcuser=Noorcoinrpc
+rpcuser=Hydrocarbonrpc
 rpcpassword=%s
 (bu şifreyi hatırlamanız gerekmemektedir)
 Kullanıcı adı ve şifre aynı OLMAMALIDIR.
 Dosya mevcut değilse, sadece sahibi tarafından okunabilir yetkiyle yaratın.
 Ayrıca sorunlardan haberdar edilmek için alertnotify parametresini doldurmanız önerilir;
-örneğin: alertnotify=echo %%s | mail -s &quot;Noorcoin Alarmı&quot; admin@foo.com
+örneğin: alertnotify=echo %%s | mail -s &quot;Hydrocarbon Alarmı&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2840,8 +2840,8 @@ Ayrıca sorunlardan haberdar edilmek için alertnotify parametresini doldurmanı
     </message>
     <message>
         <location line="-103"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Noorcoin will not work properly.</source>
-        <translation>Uyarı: Lütfen bilgisayarınızın tarih ve saatinin doğru olduğunu kontrol ediniz! Saatiniz yanlış ise, Noorcoin düzgün çalışmayacaktır.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Hydrocarbon will not work properly.</source>
+        <translation>Uyarı: Lütfen bilgisayarınızın tarih ve saatinin doğru olduğunu kontrol ediniz! Saatiniz yanlış ise, Hydrocarbon düzgün çalışmayacaktır.</translation>
     </message>
     <message>
         <location line="+130"/>
@@ -3135,8 +3135,8 @@ Ayrıca sorunlardan haberdar edilmek için alertnotify parametresini doldurmanı
     </message>
     <message>
         <location line="+8"/>
-        <source>Initialization sanity check failed. Noorcoin is shutting down.</source>
-        <translation>Başlangıç uygunluk kontrolü başarısız oldu. Noorcoin kapatılıyor.</translation>
+        <source>Initialization sanity check failed. Hydrocarbon is shutting down.</source>
+        <translation>Başlangıç uygunluk kontrolü başarısız oldu. Hydrocarbon kapatılıyor.</translation>
     </message>
     <message>
         <location line="+20"/>
@@ -3190,13 +3190,13 @@ Ayrıca sorunlardan haberdar edilmek için alertnotify parametresini doldurmanı
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Noorcoin</source>
-        <translation>wallet.dat yüklenirken hata: Cüzdan, daha yeni bir Noorcoin versiyonuna ihtiyaç duyuyor.</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Hydrocarbon</source>
+        <translation>wallet.dat yüklenirken hata: Cüzdan, daha yeni bir Hydrocarbon versiyonuna ihtiyaç duyuyor.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Noorcoin to complete</source>
-        <translation>Cüzdanın yeniden yazılması gerekmektedir: Tamamlamak için Noorcoin&apos;i yeniden başlatın</translation>
+        <source>Wallet needed to be rewritten: restart Hydrocarbon to complete</source>
+        <translation>Cüzdanın yeniden yazılması gerekmektedir: Tamamlamak için Hydrocarbon&apos;i yeniden başlatın</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3255,8 +3255,8 @@ Ayrıca sorunlardan haberdar edilmek için alertnotify parametresini doldurmanı
     </message>
     <message>
         <location line="+124"/>
-        <source>Unable to bind to %s on this computer. Noorcoin is probably already running.</source>
-        <translation>Bu bilgisayarda %s bağlanamadı. Noorcoin muhtemelen halen çalışmaktadır.</translation>
+        <source>Unable to bind to %s on this computer. Hydrocarbon is probably already running.</source>
+        <translation>Bu bilgisayarda %s bağlanamadı. Hydrocarbon muhtemelen halen çalışmaktadır.</translation>
     </message>
     <message>
         <location line="-101"/>
@@ -3290,8 +3290,8 @@ Ayrıca sorunlardan haberdar edilmek için alertnotify parametresini doldurmanı
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Noorcoin is probably already running.</source>
-        <translation>Veri klasörü %s üzerinde kilit elde edilemedi. Noorcoin muhtemelen halen çalışmaktadır.</translation>
+        <source>Cannot obtain a lock on data directory %s. Hydrocarbon is probably already running.</source>
+        <translation>Veri klasörü %s üzerinde kilit elde edilemedi. Hydrocarbon muhtemelen halen çalışmaktadır.</translation>
     </message>
     <message>
         <location line="+4"/>

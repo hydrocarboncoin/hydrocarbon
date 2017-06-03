@@ -7,23 +7,23 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleGetInfoString</key>
-	<string>Noorcoin-Qt</string>
+	<string>Hydrocarbon-Qt</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleExecutable</key>
-	<string>Noorcoin-Qt</string>
+	<string>Hydrocarbon-Qt</string>
 	<key>CFBundleIdentifier</key>
-	<string>co.Noorcoin.Noorcoin-Qt</string>
+	<string>co.Hydrocarbon.Hydrocarbon-Qt</string>
         <key>CFBundleURLTypes</key>
         <array>
           <dict>
             <key>CFBundleTypeRole</key>
             <string>Editor</string>
             <key>CFBundleURLName</key>
-            <string>co.Noorcoin.NoorcoinPayment</string>
+            <string>co.Hydrocarbon.HydrocarbonPayment</string>
             <key>CFBundleURLSchemes</key>
             <array>
-              <string>Noorcoin</string>
+              <string>Hydrocarbon</string>
             </array>
           </dict>
         </array>

@@ -7,7 +7,7 @@ cryptographic software written by Eric Young (eay@cryptsoft.com) and UPnP
 software written by Thomas Bernard.
 
 
-See readme-qt.rst for instructions on building Noorcoin QT, the
+See readme-qt.rst for instructions on building Hydrocarbon QT, the
 graphical user interface.
 
 WINDOWS BUILD NOTES
@@ -76,9 +76,9 @@ make -f Makefile.mingw
 mkdir miniupnpc
 cp *.h miniupnpc/
 
-Noorcoin
+Hydrocarbon
 -------
 DOS prompt:
-cd \Noorcoin\src
+cd \Hydrocarbon\src
 mingw32-make -f makefile.mingw
-strip Noorcoind.exe
+strip Hydrocarbond.exe

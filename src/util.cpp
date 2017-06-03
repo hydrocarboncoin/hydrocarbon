@@ -918,7 +918,7 @@ static std::string FormatException(std::exception* pex, const char* pszThread)
     char pszModule[MAX_PATH] = "";
     GetModuleFileNameA(NULL, pszModule, sizeof(pszModule));
 #else
-    const char* pszModule = "Noorcoin";
+    const char* pszModule = "Hydrocarbon";
 #endif
     if (pex)
         return strprintf(
@@ -948,13 +948,13 @@ void PrintExceptionContinue(std::exception* pex, const char* pszThread)
 boost::filesystem::path GetDefaultDataDir()
 {
     namespace fs = boost::filesystem;
-    // Windows < Vista: C:\Documents and Settings\Username\Application Data\Noorcoin
-    // Windows >= Vista: C:\Users\Username\AppData\Roaming\Noorcoin
-    // Mac: ~/Library/Application Support/Noorcoin
-    // Unix: ~/.Noorcoin
+    // Windows < Vista: C:\Documents and Settings\Username\Application Data\Hydrocarbon
+    // Windows >= Vista: C:\Users\Username\AppData\Roaming\Hydrocarbon
+    // Mac: ~/Library/Application Support/Hydrocarbon
+    // Unix: ~/.Hydrocarbon
 #ifdef WIN32
     // Windows
-    return GetSpecialFolderPath(CSIDL_APPDATA) / "Noorcoin";
+    return GetSpecialFolderPath(CSIDL_APPDATA) / "Hydrocarbon";
 #else
     fs::path pathRet;
     char* pszHome = getenv("HOME");
@@ -966,10 +966,10 @@ boost::filesystem::path GetDefaultDataDir()
     // Mac
     pathRet /= "Library/Application Support";
     fs::create_directory(pathRet);
-    return pathRet / "Noorcoin";
+    return pathRet / "Hydrocarbon";
 #else
     // Unix
-    return pathRet / ".Noorcoin";
+    return pathRet / ".Hydrocarbon";
 #endif
 #endif
 }
@@ -1018,7 +1018,7 @@ void ClearDatadirCache()
 
 boost::filesystem::path GetConfigFile()
 {
-    boost::filesystem::path pathConfigFile(GetArg("-conf", "Noorcoin.conf"));
+    boost::filesystem::path pathConfigFile(GetArg("-conf", "Hydrocarbon.conf"));
     if (!pathConfigFile.is_complete()) pathConfigFile = GetDataDir(false) / pathConfigFile;
     return pathConfigFile;
 }
@@ -1051,7 +1051,7 @@ void ReadConfigFile(map<string, string>& mapSettingsRet,
 
 boost::filesystem::path GetPidFile()
 {
-    boost::filesystem::path pathPidFile(GetArg("-pid", "Noorcoind.pid"));
+    boost::filesystem::path pathPidFile(GetArg("-pid", "Hydrocarbond.pid"));
     if (!pathPidFile.is_complete()) pathPidFile = GetDataDir() / pathPidFile;
     return pathPidFile;
 }

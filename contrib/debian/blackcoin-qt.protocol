@@ -1,6 +1,6 @@
 [Protocol]
-exec=Noorcoin-qt '%u'
-protocol=Noorcoin
+exec=Hydrocarbon-qt '%u'
+protocol=Hydrocarbon
 input=none
 output=none
 helper=true

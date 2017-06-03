@@ -1,19 +1,19 @@
-.TH BLACKCOIND "7" "July 2014" "Noorcoind 3.19" 
+.TH BLACKCOIND "7" "July 2014" "Hydrocarbond 3.19" 
 .SH NAME
-Noorcoind \- peer-to-peer network based digital currency
+Hydrocarbond \- peer-to-peer network based digital currency
 .SH SYNOPSIS
-Noorcoin [options] <command> [params]  
+Hydrocarbon [options] <command> [params]  
 .TP
-Noorcoin [options] help <command> - Get help for a command
+Hydrocarbon [options] help <command> - Get help for a command
 .SH DESCRIPTION
-This  manual page documents the Noorcoind program. Novacoin is a peer-to-peer digital currency. Peer-to-peer (P2P) means that there is no central authority to issue new money or keep track of transactions. Instead, these tasks are managed collectively by the nodes of the network. Advantages:
+This  manual page documents the Hydrocarbond program. Novacoin is a peer-to-peer digital currency. Peer-to-peer (P2P) means that there is no central authority to issue new money or keep track of transactions. Instead, these tasks are managed collectively by the nodes of the network. Advantages:
 
 Novacoins can be sent easily through the Internet, without having to trust middlemen. Transactions are designed to be irreversible. Be safe from instability caused by fractional reserve banking and central banks. The limited inflation of the Novacoin system’s money supply is distributed evenly (by CPU power) throughout the network, not monopolized by banks.
 
 .SH OPTIONS
 .TP
 \fB\-conf=\fR<file>
-Specify configuration file (default: Noorcoin.conf)
+Specify configuration file (default: Hydrocarbon.conf)
 .TP
 \fB\-gen\fR
 Generate coins
@@ -84,14 +84,14 @@ This help message
 \fBbackupwallet 'destination'\fR
 Safely copies *wallet.dat* to 'destination', which can be a directory or a path with filename.
 .TP
-\fBgetaccount 'Noorcoinaddress'\fR
+\fBgetaccount 'Hydrocarbonaddress'\fR
 Returns the account associated with the given address.
 .TP
-\fBsetaccount 'Noorcoinaddress' ['account']\fR
+\fBsetaccount 'Hydrocarbonaddress' ['account']\fR
 Sets the ['account'] associated with the given address. ['account'] may be omitted to remove an address from ['account'].
 .TP
 \fBgetaccountaddress 'account'\fR
-Returns a new Noorcoin address for 'account'.
+Returns a new Hydrocarbon address for 'account'.
 .TP
 \fBgetaddressesbyaccount 'account'\fR
 Returns the list of addresses associated with the given 'account'.
@@ -112,7 +112,7 @@ Returns the number of connections to other nodes.
 Returns the proof-of-work difficulty as a multiple of the minimum difficulty.
 .TP
 \fBgetgenerate\fR
-Returns boolean true if server is trying to generate Noorcoins, false otherwise.
+Returns boolean true if server is trying to generate Hydrocarbons, false otherwise.
 .TP
 \fBsetgenerate 'generate' ['genproclimit']\fR
 Generation is limited to ['genproclimit'] processors, -1 is unlimited.
@@ -124,13 +124,13 @@ Returns a recent hashes per second performance measurement while generating.
 Returns an object containing server information.
 .TP
 \fBgetnewaddress 'account'\fR
-Returns a new Noorcoin address for receiving payments. If 'account' is specified (recommended), it is added to the address book so payments received with the address will be credited to 'account'.
+Returns a new Hydrocarbon address for receiving payments. If 'account' is specified (recommended), it is added to the address book so payments received with the address will be credited to 'account'.
 .TP
 \fBgetreceivedbyaccount 'account' ['minconf=1']\fR
 Returns the total amount received by addresses associated with 'account' in transactions with at least ['minconf'] confirmations.
 .TP
-\fBgetreceivedbyaddress 'Noorcoinaddress' ['minconf=1']\fR
-Returns the total amount received by 'Noorcoinaddress' in transactions with at least ['minconf'] confirmations.
+\fBgetreceivedbyaddress 'Hydrocarbonaddress' ['minconf=1']\fR
+Returns the total amount received by 'Hydrocarbonaddress' in transactions with at least ['minconf'] confirmations.
 .TP
 \fBgettransaction 'txid'\fR
 Returns information about a specific transaction, given hexadecimal transaction ID.
@@ -179,26 +179,26 @@ Returns a list of the last ['count'] transactions for 'account' - for all accoun
 \fBmove <'fromaccount'> <'toaccount'> <'amount'> ['minconf=1'] ['comment']\fR
 Moves funds between accounts.
 .TP
-\fBsendfrom* <'account'> <'Noorcoinaddress'> <'amount'> ['minconf=1'] ['comment'] ['comment-to']\fR
-Sends amount from account's balance to 'Noorcoinaddress'. This method will fail if there is less than amount Noorcoins with ['minconf'] confirmations in the account's balance (unless account is the empty-string-named default account; it behaves like the *sendtoaddress* method). Returns transaction ID on success.
+\fBsendfrom* <'account'> <'Hydrocarbonaddress'> <'amount'> ['minconf=1'] ['comment'] ['comment-to']\fR
+Sends amount from account's balance to 'Hydrocarbonaddress'. This method will fail if there is less than amount Hydrocarbons with ['minconf'] confirmations in the account's balance (unless account is the empty-string-named default account; it behaves like the *sendtoaddress* method). Returns transaction ID on success.
 .TP     
-\fBsendtoaddress 'Noorcoinaddress' 'amount' ['comment'] ['comment-to']\fR
-Sends amount from the server's available balance to 'Noorcoinaddress'. amount is a real and is rounded to the nearest 0.01. Returns transaction id on success.
+\fBsendtoaddress 'Hydrocarbonaddress' 'amount' ['comment'] ['comment-to']\fR
+Sends amount from the server's available balance to 'Hydrocarbonaddress'. amount is a real and is rounded to the nearest 0.01. Returns transaction id on success.
 .TP    
 \fBstop\fR
-Stops the Noorcoin server.
+Stops the Hydrocarbon server.
 .TP    
-\fBvalidateaddress 'Noorcoinaddress'\fR
-Checks that 'Noorcoinaddress' looks like a proper Noorcoin address. Returns an object containing:
+\fBvalidateaddress 'Hydrocarbonaddress'\fR
+Checks that 'Hydrocarbonaddress' looks like a proper Hydrocarbon address. Returns an object containing:
 
     "isvalid" : true or false.
     "ismine"  : true if the address is in the server's wallet.
-    "address" : Noorcoinaddress.
+    "address" : Hydrocarbonaddress.
 
     *note: ismine and address are only returned if the address is valid.
 
 .SH "SEE ALSO"
-Noorcoin.conf(5)
+Hydrocarbon.conf(5)
 .SH AUTHOR
 This manual page was written by Micah Anderson <micah@debian.org> for the Debian system (but may be used by others). Permission is granted to copy, distribute and/or modify this document under the terms of the GNU General Public License, Version 3 or any later version published by the Free Software Foundation.
 

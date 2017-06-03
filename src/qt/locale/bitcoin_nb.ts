@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Noorcoin</source>
-        <translation>Om Noorcoin</translation>
+        <source>About Hydrocarbon</source>
+        <translation>Om Hydrocarbon</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Noorcoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Noorcoin&lt;/b&gt; versjon</translation>
+        <source>&lt;b&gt;Hydrocarbon&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Hydrocarbon&lt;/b&gt; versjon</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Noorcoin developers</source>
+Copyright © 2014 The Hydrocarbon developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Noorcoin developers</translation>
+Copyright © 2014 The Hydrocarbon developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -60,7 +60,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-43"/>
-        <source>These are your Noorcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your Hydrocarbon addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation>Dette er adressene for å motta betalinger. Du ønsker kanskje å gi ulike adresser til hver avsender så du lettere kan holde øye med hvem som betaler deg.</translation>
     </message>
     <message>
@@ -75,8 +75,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign a message to prove you own a Noorcoin address</source>
-        <translation>Signer en melding for å bevise din egen Noorcoin adresse.</translation>
+        <source>Sign a message to prove you own a Hydrocarbon address</source>
+        <translation>Signer en melding for å bevise din egen Hydrocarbon adresse.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -90,8 +90,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-10"/>
-        <source>Verify a message to ensure it was signed with a specified Noorcoin address</source>
-        <translation>Verifiser en melding får å forsikre deg om at den er signert med en spesifikk Noorcoin adresse</translation>
+        <source>Verify a message to ensure it was signed with a specified Hydrocarbon address</source>
+        <translation>Verifiser en melding får å forsikre deg om at den er signert med en spesifikk Hydrocarbon adresse</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -258,7 +258,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+82"/>
-        <source>Noorcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <source>Hydrocarbon will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -352,8 +352,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Noorcoin</source>
-        <translation>Vis info om Noorcoin</translation>
+        <source>Show information about Hydrocarbon</source>
+        <translation>Vis info om Hydrocarbon</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -392,13 +392,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-55"/>
-        <source>Send coins to a Noorcoin address</source>
-        <translation>Send coins til en Noorcoin adresse</translation>
+        <source>Send coins to a Hydrocarbon address</source>
+        <translation>Send coins til en Hydrocarbon adresse</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>Modify configuration options for Noorcoin</source>
-        <translation>Endre innstillingene til Noorcoin</translation>
+        <source>Modify configuration options for Hydrocarbon</source>
+        <translation>Endre innstillingene til Hydrocarbon</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -438,8 +438,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-214"/>
         <location line="+555"/>
-        <source>Noorcoin</source>
-        <translation>Noorcoin</translation>
+        <source>Hydrocarbon</source>
+        <translation>Hydrocarbon</translation>
     </message>
     <message>
         <location line="-555"/>
@@ -448,8 +448,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+193"/>
-        <source>&amp;About Noorcoin</source>
-        <translation>&amp;Om Noorcoin</translation>
+        <source>&amp;About Hydrocarbon</source>
+        <translation>&amp;Om Hydrocarbon</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+58"/>
-        <source>Noorcoin client</source>
-        <translation>Noorcoin klient</translation>
+        <source>Hydrocarbon client</source>
+        <translation>Hydrocarbon klient</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Noorcoin network</source>
-        <translation><numerusform>%n aktiv tilkobling til Noorcoin nettverket</numerusform><numerusform>%n aktive tilkoblinger til Noorcoin nettverket</numerusform></translation>
+        <source>%n active connection(s) to Hydrocarbon network</source>
+        <translation><numerusform>%n aktiv tilkobling til Hydrocarbon nettverket</numerusform><numerusform>%n aktive tilkoblinger til Hydrocarbon nettverket</numerusform></translation>
     </message>
     <message>
         <location line="+488"/>
@@ -600,7 +600,7 @@ Adresse: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Noorcoin address or malformed URI parameters.</source>
+        <source>URI can not be parsed! This can be caused by an invalid Hydrocarbon address or malformed URI parameters.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -723,7 +723,7 @@ Adresse: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+104"/>
-        <source>A fatal error occurred. Noorcoin can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. Hydrocarbon can no longer continue safely and will quit.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1045,8 +1045,8 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Noorcoin address.</source>
-        <translation>Den angitte adressen &quot;%1&quot; er ikke en gyldig Noorcoin adresse.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Hydrocarbon address.</source>
+        <translation>Den angitte adressen &quot;%1&quot; er ikke en gyldig Hydrocarbon adresse.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1064,8 +1064,8 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+426"/>
         <location line="+12"/>
-        <source>Noorcoin-Qt</source>
-        <translation>Noorcoin-Qt</translation>
+        <source>Hydrocarbon-Qt</source>
+        <translation>Hydrocarbon-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1137,13 +1137,13 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Noorcoin after logging in to the system.</source>
-        <translation>Start Noorcoin automatisk ved hver innlogging.</translation>
+        <source>Automatically start Hydrocarbon after logging in to the system.</source>
+        <translation>Start Hydrocarbon automatisk ved hver innlogging.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Noorcoin on system login</source>
-        <translation>&amp;Start Noorcoin ved innlogging</translation>
+        <source>&amp;Start Hydrocarbon on system login</source>
+        <translation>&amp;Start Hydrocarbon ved innlogging</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1152,7 +1152,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Noorcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the Hydrocarbon client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1182,7 +1182,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location line="-57"/>
-        <source>Connect to the Noorcoin network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the Hydrocarbon network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1227,7 +1227,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Noorcoin.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting Hydrocarbon.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1238,7 +1238,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     <message>
         <location line="+13"/>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Velg standard delt enhet for visning i grensesnittet og for sending av Noorcoins.</translation>
+        <translation>Velg standard delt enhet for visning i grensesnittet og for sending av Hydrocarbons.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -1294,8 +1294,8 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Noorcoin.</source>
-        <translation>Denne innstillingen vil tre i kraft etter Noorcoin er blitt startet på nytt.</translation>
+        <source>This setting will take effect after restarting Hydrocarbon.</source>
+        <translation>Denne innstillingen vil tre i kraft etter Hydrocarbon er blitt startet på nytt.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1313,7 +1313,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     <message>
         <location line="+46"/>
         <location line="+247"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Noorcoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Hydrocarbon network after a connection is established, but this process has not completed yet.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1387,7 +1387,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start Noorcoin: click-to-pay handler</source>
+        <source>Cannot start Hydrocarbon: click-to-pay handler</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1555,7 +1555,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Noorcoin-Qt help message to get a list with possible Noorcoin command-line options.</source>
+        <source>Show the Hydrocarbon-Qt help message to get a list with possible Hydrocarbon command-line options.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1575,12 +1575,12 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Noorcoin - Debug window</source>
+        <source>Hydrocarbon - Debug window</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+25"/>
-        <source>Noorcoin Core</source>
+        <source>Hydrocarbon Core</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1590,7 +1590,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Noorcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the Hydrocarbon debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1600,7 +1600,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="+325"/>
-        <source>Welcome to the Noorcoin RPC console.</source>
+        <source>Welcome to the Hydrocarbon RPC console.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1661,7 +1661,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
         <location line="+5"/>
         <location line="+5"/>
         <source>Send Coins</source>
-        <translation>Send Noorcoins</translation>
+        <translation>Send Hydrocarbons</translation>
     </message>
     <message>
         <location line="+76"/>
@@ -1781,7 +1781,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-174"/>
-        <source>Enter a Noorcoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <source>Enter a Hydrocarbon address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1881,8 +1881,8 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location line="+247"/>
-        <source>WARNING: Invalid Noorcoin address</source>
-        <translation>ADVARSEL: Ugyldig Noorcoin adresse</translation>
+        <source>WARNING: Invalid Hydrocarbon address</source>
+        <translation>ADVARSEL: Ugyldig Hydrocarbon adresse</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1955,7 +1955,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Noorcoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <source>Enter a Hydrocarbon address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -2016,7 +2016,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Noorcoin address</source>
+        <source>Sign the message to prove you own this Hydrocarbon address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2048,7 +2048,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Noorcoin address</source>
+        <source>Verify the message to ensure it was signed with the specified Hydrocarbon address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2059,7 +2059,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Noorcoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <source>Enter a Hydrocarbon address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2069,8 +2069,8 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Noorcoin signature</source>
-        <translation>Skriv inn Noorcoin signatur</translation>
+        <source>Enter Hydrocarbon signature</source>
+        <translation>Skriv inn Hydrocarbon signatur</translation>
     </message>
     <message>
         <location line="+85"/>
@@ -2648,8 +2648,8 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+171"/>
-        <source>Noorcoin version</source>
-        <translation>Noorcoin versjon</translation>
+        <source>Hydrocarbon version</source>
+        <translation>Hydrocarbon versjon</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2658,7 +2658,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or Noorcoind</source>
+        <source>Send command to -server or Hydrocarbond</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2678,12 +2678,12 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: Noorcoin.conf)</source>
+        <source>Specify configuration file (default: Hydrocarbon.conf)</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: Noorcoind.pid)</source>
+        <source>Specify pid file (default: Hydrocarbond.pid)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2701,13 +2701,13 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=Noorcoinrpc
+rpcuser=Hydrocarbonrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Noorcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Hydrocarbon Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2813,7 +2813,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Noorcoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="-103"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Noorcoin will not work properly.</source>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Hydrocarbon will not work properly.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3108,7 +3108,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Noorcoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+8"/>
-        <source>Initialization sanity check failed. Noorcoin is shutting down.</source>
+        <source>Initialization sanity check failed. Hydrocarbon is shutting down.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3163,12 +3163,12 @@ for example: alertnotify=echo %%s | mail -s &quot;Noorcoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Noorcoin</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of Hydrocarbon</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Noorcoin to complete</source>
+        <source>Wallet needed to be rewritten: restart Hydrocarbon to complete</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3228,7 +3228,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Noorcoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+124"/>
-        <source>Unable to bind to %s on this computer. Noorcoin is probably already running.</source>
+        <source>Unable to bind to %s on this computer. Hydrocarbon is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3263,7 +3263,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Noorcoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Noorcoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. Hydrocarbon is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>

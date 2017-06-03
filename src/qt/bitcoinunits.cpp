@@ -45,9 +45,9 @@ QString BitcoinUnits::description(int unit)
 {
     switch(unit)
     {
-    case BTC: return QString("Noorcoins");
-    case mBTC: return QString("Milli-Noorcoins (1 / 1,000)");
-    case uBTC: return QString("Micro-Noorcoins (1 / 1,000,000)");
+    case BTC: return QString("Hydrocarbons");
+    case mBTC: return QString("Milli-Hydrocarbons (1 / 1,000)");
+    case uBTC: return QString("Micro-Hydrocarbons (1 / 1,000,000)");
     default: return QString("???");
     }
 }

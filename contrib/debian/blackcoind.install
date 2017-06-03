@@ -1,2 +1,2 @@
-debian/bin/Noorcoind usr/bin
-src/Noorcoind usr/lib/Noorcoin
+debian/bin/Hydrocarbond usr/bin
+src/Hydrocarbond usr/lib/Hydrocarbon

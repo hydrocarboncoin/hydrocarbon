@@ -1,5 +1,5 @@
-Noorcoin-qt usr/bin
+Hydrocarbon-qt usr/bin
 share/pixmaps/bitcoin32.xpm usr/share/pixmaps
 share/pixmaps/bitcoin80.xpm usr/share/pixmaps
-debian/Noorcoin-qt.desktop usr/share/applications
-debian/Noorcoin-qt.protocol usr/share/kde4/services/
+debian/Hydrocarbon-qt.desktop usr/share/applications
+debian/Hydrocarbon-qt.protocol usr/share/kde4/services/

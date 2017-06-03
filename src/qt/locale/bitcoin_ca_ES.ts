@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Noorcoin</source>
-        <translation>Sobre Noorcoin</translation>
+        <source>About Hydrocarbon</source>
+        <translation>Sobre Hydrocarbon</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Noorcoin&lt;/b&gt; version</source>
-        <translation>versió &lt;b&gt;Noorcoin&lt;/b&gt;</translation>
+        <source>&lt;b&gt;Hydrocarbon&lt;/b&gt; version</source>
+        <translation>versió &lt;b&gt;Hydrocarbon&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Noorcoin developers</source>
+Copyright © 2014 The Hydrocarbon developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Noorcoin developers</translation>
+Copyright © 2014 The Hydrocarbon developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -60,8 +60,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-43"/>
-        <source>These are your Noorcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Aquestes són les teves adreces de Noorcoin per rebre els pagaments. És possible que vulgueu donar una diferent a cada remitent per a poder realitzar un seguiment de qui li está pagant.</translation>
+        <source>These are your Hydrocarbon addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Aquestes són les teves adreces de Hydrocarbon per rebre els pagaments. És possible que vulgueu donar una diferent a cada remitent per a poder realitzar un seguiment de qui li está pagant.</translation>
     </message>
     <message>
         <location line="+53"/>
@@ -75,8 +75,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign a message to prove you own a Noorcoin address</source>
-        <translation>Signar un missatge per demostrar que és propietari d&apos;una adreça Noorcoin</translation>
+        <source>Sign a message to prove you own a Hydrocarbon address</source>
+        <translation>Signar un missatge per demostrar que és propietari d&apos;una adreça Hydrocarbon</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -90,8 +90,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-10"/>
-        <source>Verify a message to ensure it was signed with a specified Noorcoin address</source>
-        <translation>Comproveu el missatge per assegurar-se que es va signar amb una adreça Noorcoin especificada.</translation>
+        <source>Verify a message to ensure it was signed with a specified Hydrocarbon address</source>
+        <translation>Comproveu el missatge per assegurar-se que es va signar amb una adreça Hydrocarbon especificada.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -258,8 +258,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+82"/>
-        <source>Noorcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Noorcoin tancarà ara per acabar el procés de xifrat. Recordeu que l&apos;encriptació del seu moneder no pot protegir completament les seves monedes de ser robades pel malware que pugui infectar al seu equip.</translation>
+        <source>Hydrocarbon will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Hydrocarbon tancarà ara per acabar el procés de xifrat. Recordeu que l&apos;encriptació del seu moneder no pot protegir completament les seves monedes de ser robades pel malware que pugui infectar al seu equip.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -352,8 +352,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Noorcoin</source>
-        <translation>Mostra informació sobre Noorcoin</translation>
+        <source>Show information about Hydrocarbon</source>
+        <translation>Mostra informació sobre Hydrocarbon</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -392,13 +392,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-55"/>
-        <source>Send coins to a Noorcoin address</source>
-        <translation>Enviar monedes a una adreça Noorcoin</translation>
+        <source>Send coins to a Hydrocarbon address</source>
+        <translation>Enviar monedes a una adreça Hydrocarbon</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>Modify configuration options for Noorcoin</source>
-        <translation>Modificar les opcions de configuració per a Noorcoin</translation>
+        <source>Modify configuration options for Hydrocarbon</source>
+        <translation>Modificar les opcions de configuració per a Hydrocarbon</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -438,8 +438,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-214"/>
         <location line="+555"/>
-        <source>Noorcoin</source>
-        <translation>Noorcoin</translation>
+        <source>Hydrocarbon</source>
+        <translation>Hydrocarbon</translation>
     </message>
     <message>
         <location line="-555"/>
@@ -448,8 +448,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+193"/>
-        <source>&amp;About Noorcoin</source>
-        <translation>&amp;Sobre Noorcoin</translation>
+        <source>&amp;About Hydrocarbon</source>
+        <translation>&amp;Sobre Hydrocarbon</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+58"/>
-        <source>Noorcoin client</source>
-        <translation>Client Noorcoin</translation>
+        <source>Hydrocarbon client</source>
+        <translation>Client Hydrocarbon</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Noorcoin network</source>
-        <translation><numerusform>%n conexió activa a la xarxa Noorcoin</numerusform><numerusform>%n conexions actives a la xarxa Noorcoin</numerusform></translation>
+        <source>%n active connection(s) to Hydrocarbon network</source>
+        <translation><numerusform>%n conexió activa a la xarxa Hydrocarbon</numerusform><numerusform>%n conexions actives a la xarxa Hydrocarbon</numerusform></translation>
     </message>
     <message>
         <location line="+488"/>
@@ -596,8 +596,8 @@ Address: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Noorcoin address or malformed URI parameters.</source>
-        <translation>l&apos;URI no es pot analitzar! Això pot ser causat per una adreça Noorcoin no vàlida o paràmetres URI malformats.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Hydrocarbon address or malformed URI parameters.</source>
+        <translation>l&apos;URI no es pot analitzar! Això pot ser causat per una adreça Hydrocarbon no vàlida o paràmetres URI malformats.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -719,8 +719,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+104"/>
-        <source>A fatal error occurred. Noorcoin can no longer continue safely and will quit.</source>
-        <translation>S&apos;ha produït un error fatal. Noorcoin ja no pot continuar de forma segura i es tancarà.</translation>
+        <source>A fatal error occurred. Hydrocarbon can no longer continue safely and will quit.</source>
+        <translation>S&apos;ha produït un error fatal. Hydrocarbon ja no pot continuar de forma segura i es tancarà.</translation>
     </message>
 </context>
 <context>
@@ -1053,8 +1053,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Noorcoin address.</source>
-        <translation>La direcció introduïda &quot;%1&quot; no és una adreça Noorcoin vàlida.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Hydrocarbon address.</source>
+        <translation>La direcció introduïda &quot;%1&quot; no és una adreça Hydrocarbon vàlida.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1072,8 +1072,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+426"/>
         <location line="+12"/>
-        <source>Noorcoin-Qt</source>
-        <translation>Noorcoin-Qt</translation>
+        <source>Hydrocarbon-Qt</source>
+        <translation>Hydrocarbon-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1145,13 +1145,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Noorcoin after logging in to the system.</source>
-        <translation>Inicia automàticament Noorcoin després d&apos;entrar en el sistema.</translation>
+        <source>Automatically start Hydrocarbon after logging in to the system.</source>
+        <translation>Inicia automàticament Hydrocarbon després d&apos;entrar en el sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Noorcoin on system login</source>
-        <translation>&amp;Iniciar Noorcoin amb l&apos;inici de sessió</translation>
+        <source>&amp;Start Hydrocarbon on system login</source>
+        <translation>&amp;Iniciar Hydrocarbon amb l&apos;inici de sessió</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1160,8 +1160,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Noorcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Obrir automàticament el port de client Noorcoin en el router. Això només funciona quan el router és compatible amb UPnP i està habilitat.</translation>
+        <source>Automatically open the Hydrocarbon client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Obrir automàticament el port de client Hydrocarbon en el router. Això només funciona quan el router és compatible amb UPnP i està habilitat.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1190,7 +1190,7 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="-57"/>
-        <source>Connect to the Noorcoin network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the Hydrocarbon network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1235,8 +1235,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Noorcoin.</source>
-        <translation>L&apos;idioma de la interfície d&apos;usuari es pot configurar aquí. Aquesta configuració s&apos;aplicarà després de reiniciar Noorcoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Hydrocarbon.</source>
+        <translation>L&apos;idioma de la interfície d&apos;usuari es pot configurar aquí. Aquesta configuració s&apos;aplicarà després de reiniciar Hydrocarbon.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1302,8 +1302,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Noorcoin.</source>
-        <translation>Aquesta configuració s&apos;aplicarà després de reiniciar Noorcoin.</translation>
+        <source>This setting will take effect after restarting Hydrocarbon.</source>
+        <translation>Aquesta configuració s&apos;aplicarà després de reiniciar Hydrocarbon.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1321,8 +1321,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="+46"/>
         <location line="+247"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Noorcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>La informació mostrada pot estar fora de data. El seu moneder es sincronitza automàticament amb la xarxa Noorcoin després d&apos;establir una connexió, però aquest procés no s&apos;ha completat encara.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Hydrocarbon network after a connection is established, but this process has not completed yet.</source>
+        <translation>La informació mostrada pot estar fora de data. El seu moneder es sincronitza automàticament amb la xarxa Hydrocarbon després d&apos;establir una connexió, però aquest procés no s&apos;ha completat encara.</translation>
     </message>
     <message>
         <location line="-173"/>
@@ -1395,7 +1395,7 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start Noorcoin: click-to-pay handler</source>
+        <source>Cannot start Hydrocarbon: click-to-pay handler</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1563,8 +1563,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Noorcoin-Qt help message to get a list with possible Noorcoin command-line options.</source>
-        <translation>Mostra el missatge d&apos;ajuda de Noorcoin-Qt per obtenir una llista amb les possibles opcions de línia d&apos;ordres Noorcoin.</translation>
+        <source>Show the Hydrocarbon-Qt help message to get a list with possible Hydrocarbon command-line options.</source>
+        <translation>Mostra el missatge d&apos;ajuda de Hydrocarbon-Qt per obtenir una llista amb les possibles opcions de línia d&apos;ordres Hydrocarbon.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1583,13 +1583,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Noorcoin - Debug window</source>
-        <translation>Noorcoin - Finestra Depuració</translation>
+        <source>Hydrocarbon - Debug window</source>
+        <translation>Hydrocarbon - Finestra Depuració</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Noorcoin Core</source>
-        <translation>Nucli Noorcoin</translation>
+        <source>Hydrocarbon Core</source>
+        <translation>Nucli Hydrocarbon</translation>
     </message>
     <message>
         <location line="+256"/>
@@ -1598,8 +1598,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Noorcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Obriu el fitxer de registre de depuració Noorcoin des del directori de dades actual. Això pot trigar uns segons en els arxius de registre de grans dimensions.</translation>
+        <source>Open the Hydrocarbon debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Obriu el fitxer de registre de depuració Hydrocarbon des del directori de dades actual. Això pot trigar uns segons en els arxius de registre de grans dimensions.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1608,8 +1608,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="+325"/>
-        <source>Welcome to the Noorcoin RPC console.</source>
-        <translation>Benvingut a la consola RPC de Noorcoin.</translation>
+        <source>Welcome to the Hydrocarbon RPC console.</source>
+        <translation>Benvingut a la consola RPC de Hydrocarbon.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1789,8 +1789,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-174"/>
-        <source>Enter a Noorcoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introdueix una adreça Noorcoin (p.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Hydrocarbon address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introdueix una adreça Hydrocarbon (p.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1889,8 +1889,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+247"/>
-        <source>WARNING: Invalid Noorcoin address</source>
-        <translation>ADVERTÈNCIA: Direcció Noorcoin invàlida</translation>
+        <source>WARNING: Invalid Hydrocarbon address</source>
+        <translation>ADVERTÈNCIA: Direcció Hydrocarbon invàlida</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1963,8 +1963,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Noorcoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introdueix una adreça Noorcoin (p.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Hydrocarbon address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introdueix una adreça Hydrocarbon (p.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -2024,8 +2024,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Noorcoin address</source>
-        <translation>Signar un missatge per demostrar que és propietari d&apos;aquesta adreça Noorcoin</translation>
+        <source>Sign the message to prove you own this Hydrocarbon address</source>
+        <translation>Signar un missatge per demostrar que és propietari d&apos;aquesta adreça Hydrocarbon</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2056,8 +2056,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Noorcoin address</source>
-        <translation>Comproveu el missatge per assegurar-se que es va signar amb l&apos;adreça Noorcoin especificada.</translation>
+        <source>Verify the message to ensure it was signed with the specified Hydrocarbon address</source>
+        <translation>Comproveu el missatge per assegurar-se que es va signar amb l&apos;adreça Hydrocarbon especificada.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2067,8 +2067,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Noorcoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introdueix una adreça Noorcoin (p.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a Hydrocarbon address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introdueix una adreça Hydrocarbon (p.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2077,8 +2077,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Noorcoin signature</source>
-        <translation>Introduïu la signatura Noorcoin</translation>
+        <source>Enter Hydrocarbon signature</source>
+        <translation>Introduïu la signatura Hydrocarbon</translation>
     </message>
     <message>
         <location line="+85"/>
@@ -2656,8 +2656,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+171"/>
-        <source>Noorcoin version</source>
-        <translation>versió Noorcoin</translation>
+        <source>Hydrocarbon version</source>
+        <translation>versió Hydrocarbon</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2666,8 +2666,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or Noorcoind</source>
-        <translation>Enviar comandes a -server o Noorcoind</translation>
+        <source>Send command to -server or Hydrocarbond</source>
+        <translation>Enviar comandes a -server o Hydrocarbond</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2686,13 +2686,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: Noorcoin.conf)</source>
-        <translation>Especifiqueu el fitxer de configuració (per defecte: Noorcoin.conf)</translation>
+        <source>Specify configuration file (default: Hydrocarbon.conf)</source>
+        <translation>Especifiqueu el fitxer de configuració (per defecte: Hydrocarbon.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: Noorcoind.pid)</source>
-        <translation>Especificar arxiu pid (per defecte: Noorcoind.pid)</translation>
+        <source>Specify pid file (default: Hydrocarbond.pid)</source>
+        <translation>Especificar arxiu pid (per defecte: Hydrocarbond.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2709,13 +2709,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=Noorcoinrpc
+rpcuser=Hydrocarbonrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Noorcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Hydrocarbon Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2821,8 +2821,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Noorcoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="-103"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Noorcoin will not work properly.</source>
-        <translation>Avís: Comproveu que la data i hora de l&apos;equip siguin correctes! Si el seu rellotge és erroni Noorcoin no funcionarà correctament.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Hydrocarbon will not work properly.</source>
+        <translation>Avís: Comproveu que la data i hora de l&apos;equip siguin correctes! Si el seu rellotge és erroni Hydrocarbon no funcionarà correctament.</translation>
     </message>
     <message>
         <location line="+130"/>
@@ -3117,7 +3117,7 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     </message>
     <message>
         <location line="+8"/>
-        <source>Initialization sanity check failed. Noorcoin is shutting down.</source>
+        <source>Initialization sanity check failed. Hydrocarbon is shutting down.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3172,13 +3172,13 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Noorcoin</source>
-        <translation>Error en carregar wallet.dat: El moneder requereix la versió més recent de Noorcoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Hydrocarbon</source>
+        <translation>Error en carregar wallet.dat: El moneder requereix la versió més recent de Hydrocarbon</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Noorcoin to complete</source>
-        <translation>El moneder necessita ser reescrita: reiniciar Noorcoin per completar</translation>
+        <source>Wallet needed to be rewritten: restart Hydrocarbon to complete</source>
+        <translation>El moneder necessita ser reescrita: reiniciar Hydrocarbon per completar</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3237,8 +3237,8 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     </message>
     <message>
         <location line="+124"/>
-        <source>Unable to bind to %s on this computer. Noorcoin is probably already running.</source>
-        <translation>No es pot enllaçar a %s en aquest equip. Noorcoin probablement ja estigui en funcionament.</translation>
+        <source>Unable to bind to %s on this computer. Hydrocarbon is probably already running.</source>
+        <translation>No es pot enllaçar a %s en aquest equip. Hydrocarbon probablement ja estigui en funcionament.</translation>
     </message>
     <message>
         <location line="-101"/>
@@ -3272,7 +3272,7 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Noorcoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. Hydrocarbon is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
