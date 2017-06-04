@@ -11,9 +11,9 @@ BitcoinUnits::BitcoinUnits(QObject *parent):
 QList<BitcoinUnits::Unit> BitcoinUnits::availableUnits()
 {
     QList<BitcoinUnits::Unit> unitlist;
-    unitlist.append(BTC);
-    unitlist.append(mBTC);
-    unitlist.append(uBTC);
+    unitlist.append(C8H);
+    unitlist.append(mC8H);
+    unitlist.append(uC8H);
     return unitlist;
 }
 
@@ -21,9 +21,9 @@ bool BitcoinUnits::valid(int unit)
 {
     switch(unit)
     {
-    case BTC:
-    case mBTC:
-    case uBTC:
+    case C8H:
+    case mC8H:
+    case uC8H:
         return true;
     default:
         return false;
@@ -34,9 +34,9 @@ QString BitcoinUnits::name(int unit)
 {
     switch(unit)
     {
-    case BTC: return QString("NRC");
-    case mBTC: return QString("mNRC");
-    case uBTC: return QString::fromUtf8("μNRC");
+    case C8H: return QString("NRC");
+    case mC8H: return QString("mNRC");
+    case uC8H: return QString::fromUtf8("μNRC");
     default: return QString("???");
     }
 }
@@ -45,9 +45,9 @@ QString BitcoinUnits::description(int unit)
 {
     switch(unit)
     {
-    case BTC: return QString("Hydrocarbons");
-    case mBTC: return QString("Milli-Hydrocarbons (1 / 1,000)");
-    case uBTC: return QString("Micro-Hydrocarbons (1 / 1,000,000)");
+    case C8H: return QString("Hydrocarbons");
+    case mC8H: return QString("Milli-Hydrocarbons (1 / 1,000)");
+    case uC8H: return QString("Micro-Hydrocarbons (1 / 1,000,000)");
     default: return QString("???");
     }
 }
@@ -56,9 +56,9 @@ qint64 BitcoinUnits::factor(int unit)
 {
     switch(unit)
     {
-    case BTC:  return 100000000;
-    case mBTC: return 100000;
-    case uBTC: return 100;
+    case C8H:  return 100000000;
+    case mC8H: return 100000;
+    case uC8H: return 100;
     default:   return 100000000;
     }
 }
@@ -67,9 +67,9 @@ int BitcoinUnits::amountDigits(int unit)
 {
     switch(unit)
     {
-    case BTC: return 8; // 21,000,000 (# digits, without commas)
-    case mBTC: return 11; // 21,000,000,000
-    case uBTC: return 14; // 21,000,000,000,000
+    case C8H: return 8; // 21,000,000 (# digits, without commas)
+    case mC8H: return 11; // 21,000,000,000
+    case uC8H: return 14; // 21,000,000,000,000
     default: return 0;
     }
 }
@@ -78,9 +78,9 @@ int BitcoinUnits::decimals(int unit)
 {
     switch(unit)
     {
-    case BTC: return 8;
-    case mBTC: return 5;
-    case uBTC: return 2;
+    case C8H: return 8;
+    case mC8H: return 5;
+    case uC8H: return 2;
     default: return 0;
     }
 }
