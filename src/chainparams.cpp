@@ -78,7 +78,7 @@ public:
         genesis.nVersion = 1;
         genesis.nTime    = 1496587650;
         genesis.nBits    = bnProofOfWorkLimit.GetCompact();
-        genesis.nNonce   = 555969;
+        genesis.nNonce   = 1006085;
         
        
 				// uncomment to log genesis block info        
@@ -117,8 +117,8 @@ public:
         
         
         hashGenesisBlock = genesis.GetHash();
-        assert(hashGenesisBlock == uint256("0x"));
-        assert(genesis.hashMerkleRoot == uint256("0x"));
+        assert(hashGenesisBlock == uint256("0x00000f3aa41b409cdd1da3c99838bd205868d39d1eb26533cc31c696ea95e1e9"));
+        assert(genesis.hashMerkleRoot == uint256("0xc01016241fb4ce889df81f1a25f289dc981808465d9deb11787590521ec299e2"));
 
         // Add seednodes below //
           vSeeds.push_back(CDNSSeedData("Hydrocarbon.net",  "seed1.noorcoin.net"));
