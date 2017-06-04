@@ -51,7 +51,7 @@ public:
         pchMessageStart[0] = 0xcd;
         pchMessageStart[1] = 0x21;
         pchMessageStart[2] = 0x19;
-        pchMessageStart[3] = 0x36;
+        pchMessageStart[3] = 0xed;
         nDefaultPort = 28881;
         nRPCPort = 28882;
         bnProofOfWorkLimit = CBigNum(~uint256(0) >> 20);
