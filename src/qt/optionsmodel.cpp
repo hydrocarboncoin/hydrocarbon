@@ -39,7 +39,7 @@ void OptionsModel::Init()
     QSettings settings;
 
     // These are Qt-only settings:
-    nDisplayUnit = settings.value("nDisplayUnit", BitcoinUnits::BTC).toInt();
+    nDisplayUnit = settings.value("nDisplayUnit", BitcoinUnits::C8H).toInt();
     fMinimizeToTray = settings.value("fMinimizeToTray", true).toBool();
     fMinimizeOnClose = settings.value("fMinimizeOnClose", true).toBool();
     fCoinControlFeatures = settings.value("fCoinControlFeatures", false).toBool();
