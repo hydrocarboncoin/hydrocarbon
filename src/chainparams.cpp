@@ -162,7 +162,7 @@ public:
         // a large 4-byte int at any alignment.
         pchMessageStart[0] = 0x08;
         pchMessageStart[1] = 0x12;
-        pchMessageStart[2] = 0x12;
+        pchMessageStart[2] = 0x16;
         pchMessageStart[3] = 0x19;
         bnProofOfWorkLimit = CBigNum(~uint256(0) >> 16);
         nDefaultPort = 38881;
@@ -171,7 +171,7 @@ public:
 
         // Modify the testnet genesis block so the timestamp is valid for a later start.
         genesis.nBits  = bnProofOfWorkLimit.GetCompact();
-        genesis.nNonce = 55029;
+        genesis.nNonce = 22802;
         genesis.nTime    = 1487718900;
 
         if (false && genesis.GetHash() != hashGenesisBlock)
@@ -205,7 +205,7 @@ public:
                        }
 
         hashGenesisBlock = genesis.GetHash();
-        assert(hashGenesisBlock == uint256("0x00008f190890d8450d4b523076cf2f04a3277588a1eb60cb5287ec32ec7a796f"));
+        assert(hashGenesisBlock == uint256("0x00003a215c5c76d0840947ff972888b9c8521c6d3ba88453000eed95c0bbf683"));
 
         vFixedSeeds.clear();
         vSeeds.clear();
@@ -233,12 +233,12 @@ public:
     CRegTestParams() {
         pchMessageStart[0] = 0xcc;
         pchMessageStart[1] = 0x16;
-        pchMessageStart[2] = 0x20;
+        pchMessageStart[2] = 0x22;
         pchMessageStart[3] = 0xd6;
         bnProofOfWorkLimit = CBigNum(~uint256(0) >> 1);
         genesis.nTime = 1411111111;
         genesis.nBits  = bnProofOfWorkLimit.GetCompact();
-        genesis.nNonce = 2;
+        genesis.nNonce = 0;
         nDefaultPort = 228881;
         strDataDir = "regtest";
 
@@ -273,7 +273,7 @@ public:
                        }
 
         hashGenesisBlock = genesis.GetHash();
-        assert(hashGenesisBlock == uint256("0x6e4a8c55e0db693b1fe381d9c4ca6660545eb1e26003b4cdabaa12d2ecda49b7"));
+        assert(hashGenesisBlock == uint256("0x6258d5b30e06b2e241e248ec79de68882178923747ae423764820889bd52ade0"));
 
         vSeeds.clear();  // Regtest mode doesn't have any DNS seeds.
     }
