@@ -117,8 +117,8 @@ public:
         
         
         hashGenesisBlock = genesis.GetHash();
-        assert(hashGenesisBlock == uint256("0x000000a08727b98a1cd30e282f2140deb32a5c7281b9700b74b22556bcba545b"));
-        assert(genesis.hashMerkleRoot == uint256("0xc02c9618f0da002418dbe0ba030ff46812f7d986425447db0edc9581ecf4d1f6"));
+        assert(hashGenesisBlock == uint256("0x"));
+        assert(genesis.hashMerkleRoot == uint256("0x"));
 
         // Add seednodes below //
           vSeeds.push_back(CDNSSeedData("Hydrocarbon.net",  "seed1.noorcoin.net"));
