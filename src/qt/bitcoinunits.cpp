@@ -34,9 +34,9 @@ QString BitcoinUnits::name(int unit)
 {
     switch(unit)
     {
-    case C8H: return QString("NRC");
-    case mC8H: return QString("mNRC");
-    case uC8H: return QString::fromUtf8("μNRC");
+    case C8H: return QString("C8H");
+    case mC8H: return QString("mC8H");
+    case uC8H: return QString::fromUtf8("μC8H");
     default: return QString("???");
     }
 }
